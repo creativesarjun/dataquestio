@@ -22,11 +22,11 @@ This repository is a series of projects of I've practiced learning Data Analyst 
 
 ## Data Scientist in Python
 
-* Project: Predicting Car Prices with K-Nearest Neighbors using scikit-learn
-* Project: Predicting stock prices with Random Forests using scikit-learn
+* [Project: Predicting Car Prices with K-Nearest Neighbors using scikit-learn](https://github.com/creativesarjun/dataquestio/blob/main/data-scientist-project-1-predicting-car-prices.ipynb)
+* [Project: Predicting stock prices with Random Forests using scikit-learn](https://github.com/creativesarjun/dataquestio/blob/main/data-scientist-project-2-predicting-stock-prices.ipynb)
 
 ## Data Engineer
 
-* Project: Building Fast Queries on a CSV
-* Project: Building a database for crime reports# dataquestio
+* [Project: Building Fast Queries on a CSV](https://github.com/creativesarjun/dataquestio/blob/main/data-engineer-project-1-building-fast-queries-on-a-csv.ipynb)
+* [Project: Building a database for crime reports# dataquestio](https://github.com/creativesarjun/dataquestio/blob/main/data-engineer-project-2-building-a-database-for-crime-reports.ipynb)
  
